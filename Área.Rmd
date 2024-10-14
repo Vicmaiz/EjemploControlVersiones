@@ -16,4 +16,3 @@ rm(list=ls())
 r <- 0.5
 Area <- pi*r^2
 ```
-
